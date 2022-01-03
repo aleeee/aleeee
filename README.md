@@ -28,10 +28,10 @@
   <img src="https://img.shields.io/badge/Framework-Apache%20Felix-informational?style=flat&logo=apache&color=de0031"/>
 </a>
 <a href="https://next.quasar.dev/">
-  <img src="https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&color=de0031"/>
+  <img src="https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&color=1976D2"/>
 </a>
 <a href="https://v3.vuejs.org/">
-  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&color=de0031"/>
+  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&color=4FC08D"/>
 </a>
 <a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/Runtime_Env-Node.js-informational?style=flat&logo=Node.js&color=2a7e2a"/>
@@ -58,16 +58,16 @@
 ### Data and Infrastructure
 
 <a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&color=11AA52"/>
+  <img src="https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&color=4479A1"/>
 </a>
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=Docker&color=2397ec"/>
 </a>
 <a href="https://kubernetes.io/">
-  <img src="https://img.shields.io/badge/ContainerOrchestration-Kubernestes-informational?style=flat&logo=kubernetes&color=2397ec"/>
+  <img src="https://img.shields.io/badge/ContainerOrchestration-Kubernestes-informational?style=flat&logo=kubernetes&color=326CE5"/>
 </a>
 <a href="https://prometheus.io">
-  <img src="https://img.shields.io/badge/Monitoring -Prometheus-informational?style=flat&logo=Prometheus&color=854eba"/>
+  <img src="https://img.shields.io/badge/Monitoring -Prometheus-informational?style=flat&logo=Prometheus&color=E6522C"/>
 </a>
 <a href="https://www.splunk.com/">
   <img src="https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=66A637"/>
