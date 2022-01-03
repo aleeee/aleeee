@@ -2,6 +2,8 @@
 
 [![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleeee)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alemu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleeee&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **aleeee/aleeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
