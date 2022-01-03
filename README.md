@@ -22,55 +22,55 @@
 ### Frameworks and Runtime
 
 <a href="https://spring.io/">
-  <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6db33e"/>
+  <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&color=6db33e"/>
 </a>
 <a href="https://felix.apache.org">
-  <img src="https://img.shields.io/badge/Framework-Apache%20Felix-informational?style=flat&logo=apache&logoColor=white&color=de0031"/>
+  <img src="https://img.shields.io/badge/Framework-Apache%20Felix-informational?style=flat&logo=apache&color=de0031"/>
 </a>
 <a href="https://next.quasar.dev/">
-  <img src="https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=de0031"/>
+  <img src="https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&color=de0031"/>
 </a>
 <a href="https://v3.vuejs.org/">
-  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=de0031"/>
+  <img src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=Vue.js&color=de0031"/>
 </a>
 <a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/badge/Runtime_Env-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2a7e2a"/>
+  <img src="https://img.shields.io/badge/Runtime_Env-Node.js-informational?style=flat&logo=Node.js&color=2a7e2a"/>
 </a>
 
 ### Tools
 
 <a href="https://maven.apache.org/">
-  <img src="https://img.shields.io/badge/Build_Tool-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=E46625"/>
+  <img src="https://img.shields.io/badge/Build_Tool-Maven-informational?style=flat&logo=apache-maven&color=E46625"/>
 </a>
 <a href="https://www.npmjs.com/">
-  <img src="https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&logoColor=white&color=CB3837"/>
+  <img src="https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&color=CB3837"/>
 </a>
 <a href="https://www.jenkins.io/">
-  <img src="https://img.shields.io/badge/Build_Tool-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=d53832"/>
+  <img src="https://img.shields.io/badge/Build_Tool-Jenkins-informational?style=flat&logo=Jenkins&color=d53832"/>
 </a>
 <a href="https://swagger.io/">
-  <img src="https://img.shields.io/badge/Spec-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=85EA2B"/>
+  <img src="https://img.shields.io/badge/Spec-Swagger-informational?style=flat&logo=Swagger&color=85EA2B"/>
 </a>
 <a href="https://www.postman.com/">
-  <img src="https://img.shields.io/badge/REST_Client-Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37"/>
+  <img src="https://img.shields.io/badge/REST_Client-Postman-informational?style=flat&logo=Postman&color=FF6C37"/>
 </a>
 
 ### Data and Infrastructure
 
 <a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=11AA52"/>
+  <img src="https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&color=11AA52"/>
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2397ec"/>
+  <img src="https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=Docker&color=2397ec"/>
 </a>
 <a href="https://kubernetes.io/">
-  <img src="https://img.shields.io/badge/ContainerOrchestration-Kubernestes-informational?style=flat&logo=kubernetes&logoColor=white&color=2397ec"/>
+  <img src="https://img.shields.io/badge/ContainerOrchestration-Kubernestes-informational?style=flat&logo=kubernetes&color=2397ec"/>
 </a>
 <a href="https://prometheus.io">
-  <img src="https://img.shields.io/badge/Monitoring -Prometheus-informational?style=flat&logo=Prometheus&logoColor=white&color=854eba"/>
+  <img src="https://img.shields.io/badge/Monitoring -Prometheus-informational?style=flat&logo=Prometheus&color=854eba"/>
 </a>
 <a href="https://www.splunk.com/">
-  <img src="https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&logoColor=white&color=66A637"/>
+  <img src="https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=66A637"/>
 </a>
 
 
